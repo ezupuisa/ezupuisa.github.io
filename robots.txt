@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezupuisa.github.io/CpO/sitemap_index.txt
+Sitemap: https://ezupuisa.github.io/ZvW/sitemap_index.txt
+Sitemap: https://ezupuisa.github.io/npq/sitemap_index.txt
+Sitemap: https://ezupuisa.github.io/otT/sitemap_index.txt
